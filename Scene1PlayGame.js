@@ -1,3 +1,4 @@
+// MINTE
 let playerImageKey = "sprMovementPlayer1";
 let checkEnd;
 let collierDemonWithGround;
